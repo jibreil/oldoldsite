@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello_World
-author: Jibreil Honeine
+author: Jibreil
 ---
 
 Welcome to the first post on my new site.

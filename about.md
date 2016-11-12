@@ -6,7 +6,7 @@ permalink: /about/
 
 # About me
 
-This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.
+Hi, my name is Jibreil, i'm a high school student from Sydney, NSW. In my limited experience so far, I have focused on web development, creating a few websites for both personal use and business clients. As such, most of my programming skills focus on web development  but i'm always eager to learn new skills and languages.
 
 --------------------------------------------------------------------------------
 
