@@ -51,7 +51,7 @@ Have a look at Jekyll-Mono with four different main theme colors.
  
 ![Jekyll Mono in 4 different colors](/images/ss-color.png)
 
-Finally you need to set up your avatar. Pick up your avatar, resize it to 220x220px simply using paint or any editor of your choice and upload it to the images folder. Now open _variables.scss, you'll see something like this `$avatar: "/images/avatar.jpg";`. Here change the avatar.jpg to what you have uploaded just now.
+Finally you need to set up your avatar. Pick up your avatar, resize it to 220x220px simply using paint or any editor of your choice and upload it to the images folder. Now open _variables.scss, you'll see something like this `$avatar: "/images/avatar.png";`. Here change the avatar.png to what you have uploaded just now.
 
 
 ### Start Blogging

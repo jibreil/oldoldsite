@@ -4,29 +4,42 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+# Projects
 
-***
+## In-Progress
 
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### Start
 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+My own custom startpage made from scratch.
 
-***
+[Live demo coming soon](https://start.jibreil.xyz) / [Source](https://github.com/jibreil/start)
 
-## Other Projects
+--------------------------------------------------------------------------------
 
-### This Could Be Another Project Name
+## Completed Projects
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-   
-### This Could Be Yet Another Project Name
+### Heavenly Delights Catering Website
 
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+Simple website created for Heavenly Delights Catering to replace an ageing website.
 
+[Live site](https://www.heavenlydelightscatering.com.au) / [Development site](https://jibreil.xyz/heavenlydelightscateringdev) / [Source](https://github.com/jibreil/heavenlydelightscatering)
 
-## Contact me
+--------------------------------------------------------------------------------
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+### PStartpage
+
+New tab page with keyboard navigation, bookmarks, weather, random quotes and a nice background.
+
+[See it in action](https://pstart.jibreil.xyz) / [Source](https://github.com/jibreil/pstartpage)
+
+--------------------------------------------------------------------------------
+
+### vnStat Alert
+
+Simple python script to control data usage in a server by shutting down the machine when a set limit is reached, also includes functionality to send an email alert to the admin.
+
+[Get it here](https://github.com/jibreil/vnstat-alert)
+
+--------------------------------------------------------------------------------
+
+### Like what you see? [Contact me!](mailto:jibreilhoneine@gmail.com)

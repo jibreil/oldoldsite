@@ -73,11 +73,15 @@ p {
 
 a {
   color: $link-color;
-  text-decoration: none;
 	cursor: pointer;
+  text-decoration: none;
   &:hover, &:active {
     color: darken($link-color,20);
   }
+}
+
+.wline a {
+  text-decoration: underline;
 }
 
 ul, ol {
@@ -213,7 +217,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; 
+  margin-top: 23px;
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -230,7 +234,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-    
+
     &:hover, &:active {
       color: darken($navbar-hover-color,20);
     }
