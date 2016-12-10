@@ -6,7 +6,7 @@ permalink: /about/
 
 # About me
 
-Hi, my name is Jibreil, i'm a high school student from Sydney, NSW. In my limited experience so far, I have focused on web development, creating a few websites for both personal use and business clients. As such, most of my programming skills focus on web development  but i'm always eager to learn new skills and languages.
+Hi, my name is Jibreil, i'm a high school student from Sydney, NSW. In my experience so far, I have focused on web development, creating a few websites for both personal use and professional clients. As such, most of my programming skills focus on web development but i'm always eager to learn new skills and languages. I also have knowledge and skills in computer hardware, from troubleshooting to building custom rigs.
 
 --------------------------------------------------------------------------------
 
