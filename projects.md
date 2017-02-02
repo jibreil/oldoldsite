@@ -4,20 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
-
-## In-Progress
-
-### Start
-
-My own custom startpage made from scratch.
-
-[Live demo coming soon](https://start.jibreil.xyz) / [Source](https://github.com/jibreil/start)
-
---------------------------------------------------------------------------------
-
-## Completed Projects
-
 ### Heavenly Delights Catering Website
 
 Simple website created for Heavenly Delights Catering to replace an ageing website.
