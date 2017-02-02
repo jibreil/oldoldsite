@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+# Projects
+
 ### Heavenly Delights Catering Website
 
 Simple website created for Heavenly Delights Catering to replace an ageing website.
@@ -12,7 +14,7 @@ Simple website created for Heavenly Delights Catering to replace an ageing websi
 
 --------------------------------------------------------------------------------
 
-### PStartpage
+## PStartpage
 
 New tab page with keyboard navigation, bookmarks, weather, random quotes and a nice background.
 
