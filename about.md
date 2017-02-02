@@ -6,7 +6,7 @@ permalink: /about/
 
 # About me
 
-Hi, my name is Jibreil, i'm a high school student from Sydney, NSW. In my experience so far, I have focused on web development, creating a few websites for both personal use and professional clients. As such, most of my programming skills focus on web development but i'm always eager to learn new skills and languages. I also have knowledge and skills in computer hardware, from troubleshooting to building custom rigs.
+Hi, my name is Jibreil and I'm a high school student from Sydney, NSW. In my experience so far, I have focused on web development, creating a few websites for both personal use and professional clients. As such, most of my programming skills focus on web development but I'm always eager to learn new skills and languages. I also have knowledge and skills in computer hardware, from troubleshooting hardware and software to building custom rigs.
 
 --------------------------------------------------------------------------------
 
@@ -24,6 +24,7 @@ Work experience as Software Engineer • May 2016
 
 ## Education
 
+- Photography, Video and Digital Imaging • 2017 - 2017
 - Accelerated Business Studies • 2016 - 2017
 - Accelerated Information Processes and Technology • 2015 - 2016
 
@@ -56,32 +57,36 @@ Developer • Early 2016
 
 ## Skills
 
-### Web Technologies
+### Web technologies
 
 - HTML
 - CSS
 
-### Programming Languages
+### Programming languages
 
 - Bash
 - Python
 
-### IDEs and Tools
+### IDE's and tools
 
 - Git + GitHub
+- Atom
+- Linux CLI
 
-### Operating Systems
+### Operating systems
 
 - Windows
 - Linux
 - macOS
 
-### Internet of Things
+### Internet of things
 
 - Raspberry Pi
 - Arduino
 
 ### PC building and repair
+
+### Technical writing
 
 --------------------------------------------------------------------------------
 
