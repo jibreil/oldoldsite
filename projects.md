@@ -30,6 +30,4 @@ Simple python script to control data usage in a server by shutting down the mach
 
 --------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------
-
 ### Like what you see? [Contact me!](mailto:jibreilhoneine@gmail.com)
