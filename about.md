@@ -86,7 +86,7 @@ Work experience as Software Engineer • May 2016
 
 - Converted website to a new HTML style
 - Created vnStat Alert program to control server data usage
-- Made core changes to the OS on machines implemented across NS
+- Made core changes to the OS on machines implemented across NSW
 
 --------------------------------------------------------------------------------
 
